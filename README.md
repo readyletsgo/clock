@@ -4,7 +4,7 @@ Create twelve different visual representations of a clock. This is a creative in
 
 ## Project Structure
 
-- [Template](./00_p5Template/) - Basic p5.js template
+- [Template](https://readyletsgo.github.io/00_p5Template/) - Basic p5.js template
 - [Primitives](./01_primitives/) - Basic drawing primitives
 - [Bar Clock](./02-bar-clock/) - Clock using bars/rectangles
 - [Text Clock](./03-text-clock/) - Text-based clock representation
